@@ -65,7 +65,7 @@ while True:
     cv2.rectangle(frame, (570, 150), (970, 550), Colors.green, 3)
     k = cv2.waitKey(10)
     if k == ord('a'):
-        t=8
+        t=2.5
         i=0
         userMove = getUserMove(frame[150:550, 570:970])
         compsMove = choice(['Rock', 'Paper', 'Scissors'])
