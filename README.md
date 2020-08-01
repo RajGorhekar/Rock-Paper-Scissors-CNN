@@ -9,8 +9,8 @@
 
 ### Here are a  Few screenshots of the App
 
-<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss4.png"  width ="420">.
-<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss1.png"  width ="420">
+<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss4.png"  width ="400">.
+<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss1.png"  width ="400">
 
-<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss2.png"  width ="420">.
-<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss3.png"  width ="420">
+<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss2.png"  width ="400">.
+<img src="https://github.com/RajGorhekar/Rock-Paper-Scissors/blob/master/Screenshots/ss3.png"  width ="400">
